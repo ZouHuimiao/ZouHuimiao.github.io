@@ -1,9 +1,11 @@
-
 a
 {
-  margin:30px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
   float:left;
-  width:120px;
+  width:50%;
   height:90px;
   background-color:#D8D8D8;
   border-radius:8px;
