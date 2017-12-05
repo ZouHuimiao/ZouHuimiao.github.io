@@ -1,17 +1,21 @@
-.menu
+
+a
 {
   margin:30px;
   float:left;
   width:120px;
   height:90px;
-  background-color:gray;
-  border-radius:5px;
+  background-color:#D8D8D8;
+  border-radius:8px;
+  text-align: center;
+  line-height: 90px;
 }
-.menu:hover
+a:link{color: #888888;text-decoration: none;}
+a:visited{color: #888888;text-decoration: none;}
+a:hover
 {
-  background-color:blue;
+  background-color:#C8C8C8;
+  color: #000000;
+  text-decoration: underline;
 }
-a
-{
-  height:50%;
-}
+a:active{color: #888888;text-decoration: none;}
