@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages :eight_pointed_black_star:
+## Welcome to GitHub Pages 
+
+:eight_pointed_black_star:
 
 You can use the [editor on GitHub](https://github.com/ZouHuimiao/ZouHuimiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
