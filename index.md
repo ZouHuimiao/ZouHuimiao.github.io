@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ZouHuimiao/ZouHuimiao.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[百度](www.baidu.com)
+[百度](https://www.baidu.com)
 
 ### Markdown
 
