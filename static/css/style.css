@@ -7,6 +7,10 @@ div.menu
   background-color:gray;
   border-radius:5px;
 }
+.menu:hover
+{
+  background-color:blue;
+}
 a
 {
   height:50%;
