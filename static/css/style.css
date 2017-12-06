@@ -52,7 +52,7 @@ a.back:hover
 a.back:active{color: #888888;text-decoration: none;}
 
 /*列表样式*/
-ol.title
+li.title
 {
   margin-top:10px;
   margin-bottom: 10px;
