@@ -52,17 +52,15 @@ a.back:hover
 a.back:active{color: #888888;text-decoration: none;}
 
 /*列表样式*/
-li.title
+p,h2
 {
-  margin-top:10px;
-  margin-bottom: 10px;
+  margin-top:0px;
+  margin-bottom: 0px;
   margin-left: 12.5%;
   margin-right: 12.5%;
   float:left;
   width:70%;
-  height:90px;
   background-color:#D8D8D8;
   border-radius:8px;
   text-align: center;
-  line-height: 90px;
 }
