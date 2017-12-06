@@ -12,6 +12,8 @@ a.menu
   border-radius:8px;
   text-align: center;
   line-height: 90px;
+  font-size:30px;
+  font-family:"arial";
 }
 a.menu:link{color: #888888;text-decoration: none;}
 a.menu:visited{color: #888888;text-decoration: none;}
