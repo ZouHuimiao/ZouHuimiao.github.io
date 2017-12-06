@@ -52,6 +52,21 @@ a.back:hover
 a.back:active{color: #888888;text-decoration: none;}
 
 /*列表样式*/
+a.title
+{
+  margin-left:5px;
+  margin-right:5px;
+  background-color:#D8D8D8;
+  line-height: 30px;
+}
+a.title:link{color: #000000;text-decoration: none;}
+a.title:visited{color: #000000;text-decoration: none;}
+a.title:hover
+{
+  color: red;
+  text-decoration: underline;
+}
+a.title:active{color: #000000;text-decoration: none;}
 h2
 {
   margin-top:40px;
