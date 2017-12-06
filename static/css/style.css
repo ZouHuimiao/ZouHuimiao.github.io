@@ -26,7 +26,6 @@ a.menu:active{color: #888888;text-decoration: none;}
 /*子页面返回主页链接样式*/
 a.back
 {
-  float:left;
   margin:0px;
   padding: 0px;
   width:100%;
