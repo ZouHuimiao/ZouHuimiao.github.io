@@ -44,7 +44,6 @@ a.back:link{color: #888888;text-decoration: none;}
 a.back:visited{color: #888888;text-decoration: none;}
 a.back:hover
 {
-  background-color:#C8C8C8;
   color: #000000;
   text-decoration: underline;
 }
