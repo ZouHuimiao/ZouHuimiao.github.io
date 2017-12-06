@@ -23,8 +23,8 @@ a.menu:hover
 }
 a.menu:active{color: #888888;text-decoration: none;}
 
-/*子页面返回主页链接样式*/
-a.back
+/*子页面返回主页样式*/
+div.home
 {
   position:fixed;
   left:0px;
@@ -33,6 +33,11 @@ a.back
   height:30px;
   background-color:#D8D8D8;
   border-radius:3px;
+  line-height: 30px;
+}
+a.back
+{
+  background-color:#D8D8D8;
   line-height: 30px;
 }
 a.back:link{color: #888888;text-decoration: none;}
