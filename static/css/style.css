@@ -89,8 +89,13 @@ p
   text-indent:2em;
 }
 /*拼音样式*/
+@font-face {
+	font-family:"comic sans ms";
+	src: url("/static/font/Comic Sans MS.ttf");
+}
 p.pinyin
 {
 	font-family: "comic sans ms";
 	font-size: 100px;
 }
+
