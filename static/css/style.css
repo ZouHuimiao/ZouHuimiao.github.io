@@ -90,12 +90,12 @@ p
 }
 /*拼音样式*/
 @font-face {
-	font-family:"comic sans ms";
-	src: url("/static/font/Comic Sans MS.ttf");
+	font-family:"times new roman";
+	src: url("/static/font/Times New Roman Bold Italic.ttf");
 }
 p.pinyin
 {
-	font-family: "comic sans ms";
+	font-family: "times new roman";
 	font-size: 100px;
 	text-indent: 0em;
 }
