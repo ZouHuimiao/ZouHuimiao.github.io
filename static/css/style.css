@@ -100,4 +100,28 @@ p.pinyin
 	font-size: 10vw;
 	text-indent: 0em;
 }
+.illu-tb
+{
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+  width:70%;
+  height:120px;
+  background-color:#D8D8D8;
+  border-radius:8px;
+}
+.tr-main
+{
+	font-family: "times new roman";
+	font-size: 20vw;
+	line-height: 20vw;
+	text-indent: 0em;
+	text-align: center;
+}
+.tr-des
+{
+	font-size: 3vw;
+	line-height: 3vw;
+	text-indent: 0em;
+	text-align: center;
+}
 
