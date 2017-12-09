@@ -88,12 +88,22 @@ p
   width:70%;
   text-indent:2em;
 }
-/*拼音样式*/
+/*内容样式*/
 @font-face {
 	font-family:"times new roman";
 	src: url("/static/font/Times New Roman Bold Italic.ttf");
 }
-
+@font-face {
+	font-family:"musical notes";
+	src: url("/static/font/Musical Notes.ttf");
+}
+p.music
+{
+	font-family: "musical notes";
+	font-size: 10vw;
+	text-indent: 0em;
+	text-align: center;
+}
 p.pinyin
 {
 	font-family: "times new roman";
