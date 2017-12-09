@@ -146,16 +146,16 @@ p.pinyin
 .tr-main-s
 {
 	font-family: "musical notes";
-	font-size: 6vw;
-	line-height: 6vw;
+	font-size: 5vw;
+	line-height: 8vw;
 	text-indent: 0em;
 	text-align: center;
 }
 .tr-des-s
 {
 	font-family:"times new roman";
-	font-size: 1vw;
-	line-height: 4vw;
+	font-size: 3vw;
+	line-height: 6vw;
 	text-indent: 0em;
 	text-align: center;
 }
