@@ -89,6 +89,7 @@ p
   text-indent:2em;
 }
 /*内容样式*/
+/*自定义字体*/
 @font-face {
 	font-family:"times new roman";
 	src: url("/static/font/Times New Roman Bold Italic.ttf");
@@ -111,6 +112,7 @@ p.pinyin
 	text-indent: 0em;
 	text-align: center;
 }
+/*大表格说明样式-如拼音中的拼读*/
 .illu-tb
 {
   margin-left: 12.5%;
@@ -133,4 +135,27 @@ p.pinyin
 	text-indent: 0em;
 	text-align: center;
 }
-
+/*小表格说明样式-如音符输入法*/
+.illu-tb-s
+{
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+  width:75%;
+  height:40px;
+}
+.tr-main-s
+{
+	font-family: "musical notes";
+	font-size: 6vw;
+	line-height: 6vw;
+	text-indent: 0em;
+	text-align: center;
+}
+.tr-des-s
+{
+	font-family:"times new roman";
+	font-size: 1vw;
+	line-height: 4vw;
+	text-indent: 0em;
+	text-align: center;
+}
